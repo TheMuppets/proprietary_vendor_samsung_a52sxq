@@ -1,0 +1,65 @@
+{
+	"LRF": [{
+			"name": "AP",
+			"coef": 0.3135,
+			"scale": 51.8377,
+			"mean": 442.9801
+		},
+		{
+			"name": "BAT",
+			"coef": 0.3373,
+			"scale": 32.4782,
+			"mean": 334.1709
+		},
+		{
+			"name": "CHG",
+			"coef": 0.1447,
+			"scale": 89.5552,
+			"mean": 458.9827
+		},
+		{
+			"name": "WIFI",
+			"coef": 0.2446,
+			"scale": 40.1112,
+			"mean": 395.2073
+		},
+		{
+			"name": "Y",
+			"scale": 3.6121,
+			"mean": 36.7297,
+			"intercept": 0.0
+		}
+	],
+	"LRB": [{
+			"name": "AP",
+			"coef": 0.5022,
+			"scale": 65.9736,
+			"mean": 450.8427
+		},
+		{
+			"name": "BAT",
+			"coef": 0.2458,
+			"scale": 35.3627,
+			"mean": 335.2401
+		},
+		{
+			"name": "CHG",
+			"coef": 0.044,
+			"scale": 99.7771,
+			"mean": 455.0903
+		},
+		{
+			"name": "WIFI",
+			"coef": 0.2173,
+			"scale": 48.5043,
+			"mean": 397.5513
+		},
+		{
+			"name": "Y",
+			"scale": 4.537,
+			"mean": 37.864,
+			"intercept": 0.0
+		}
+	]
+
+}
